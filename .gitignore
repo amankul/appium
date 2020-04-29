@@ -1,0 +1,40 @@
+### Android ###
+# Built application files
+#*.apk
+
+# Log Files
+*.log
+
+# Target folder
+target/
+
+# Test Output folder
+test-output/
+
+### IDE Files ###
+.classpath
+.project
+.settings
+.metadata
+
+### Complied Classes ###
+*.class
+
+### Packages ###
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+### OSX ###
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
