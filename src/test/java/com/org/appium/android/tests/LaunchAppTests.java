@@ -13,7 +13,7 @@ import com.org.appium.android.utils.UserActionsUtil;
 
 
 /**
- * The Class PhunGenericTest.
+ * The Class genericTest.
  */
 public class LaunchAppTests extends AppiumTest {
 
@@ -26,7 +26,7 @@ public class LaunchAppTests extends AppiumTest {
 
   @BeforeTest
   public void beforeTest() throws Exception {
-    AppiumTest.setup("PhunGeneric-4.10.1.359.apk");
+    AppiumTest.setup("generic-4.10.1.359.apk");
   }
 
 

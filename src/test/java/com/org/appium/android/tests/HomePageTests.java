@@ -27,7 +27,7 @@ public class HomePageTests extends AppiumTest {
 
   @BeforeTest
   public void beforeTest() throws Exception {
-    AppiumTest.setup("PhunGeneric-4.10.1.359.apk");
+    AppiumTest.setup("generic-4.10.1.359.apk");
   }
 
   // *********** Hamburger Menu tests *********** //
